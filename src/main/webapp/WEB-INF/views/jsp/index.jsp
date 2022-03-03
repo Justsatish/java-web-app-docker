@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; SATISH KUMAR</p>
+		<p>&copy; SATISH KUMAR T</p>
 	</footer>
 </div>
 
